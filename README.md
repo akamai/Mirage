@@ -4,7 +4,7 @@
 
 Mirage is a PoC memory evasion technique that relies on a vulnerable VBS enclave to hide shellcode within VTL1.
 For additional information please refer to our blogpost:
-https://akamai.com/blog/security-research/
+https://www.akamai.com/blog/security-research/2025-february-abusing-vbs-enclaves-evasive-malware
 
 
 ## Operation
